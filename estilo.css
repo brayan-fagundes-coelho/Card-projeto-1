@@ -6,12 +6,12 @@
 }
 
 body{
-    background-color: limegreen;
+    background-color: (#111844);
     color: aliceblue;
     font-family: "Roboto Condensed", sans-serif;
 }
 .cabecalho{
-    background-color: dodgerblue;
+    background-color: (#4B5694);
     display: flex;
     justify-content: space-between;
     padding: 15px 25px;
