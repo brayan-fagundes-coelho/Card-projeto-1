@@ -7,7 +7,7 @@ body{
     background-color: limegreen;
 }
 .cabecalho{
-background-color: dodgerblue;
+    background-color: dodgerblue;
     display: flex;
     justify-content: space-between;
 }
