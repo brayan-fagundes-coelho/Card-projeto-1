@@ -33,7 +33,7 @@ flex: 1;
 }
 .cartao-interno{
  position: relative;  
- transition: transform 0,8;
+ transition: transform 0.8s;
 transform-style: preserve-3d;
 
 
@@ -53,4 +53,7 @@ transform: rotateY(180deg);
 border-radius: 12px;
     box-shadow: 0 6px 12px rgba12(0,0,0,15);
 backface-visibility: hidden;
+}
+.cartao-verso{
+    transform: rotateY(180deg);
 }
